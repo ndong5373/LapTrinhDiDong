@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+.local/
+.idea/
+**/build/
+**/outputs/
+.externalNativeBuild/
+.cxx/
+captures/
+.DS_Store
+Thumbs.db
+*.jks
+*.keystore
